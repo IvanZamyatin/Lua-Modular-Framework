@@ -1,0 +1,1 @@
+This is a modular multiplayer game framework inside Roblox Studio intended on being the  backbone of a sci-fi multiplayer game (weapons, players, UI, data, systems)
